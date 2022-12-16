@@ -1,0 +1,1 @@
+E:\Programming\GitHub\Rust\Advent_of_Code_2022\day10\target\debug\day10.exe: E:\Programming\GitHub\Rust\Advent_of_Code_2022\day10\src\lib.rs E:\Programming\GitHub\Rust\Advent_of_Code_2022\day10\src\main.rs
